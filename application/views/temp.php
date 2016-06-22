@@ -8,14 +8,14 @@
     <!-- Stylesheets
     ============================================= -->
 	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
-    <link rel="stylesheet" href="style.css" type="text/css" />
-    <link rel="stylesheet" href="css/dark.css" type="text/css" />
-    <link rel="stylesheet" href="css/font-icons.css" type="text/css" />
-    <link rel="stylesheet" href="css/animate.css" type="text/css" />
-    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/dark.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" type="text/css" />
 
-    <link rel="stylesheet" href="css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <!--[if lt IE 9]>
     	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
@@ -23,8 +23,8 @@
 
     <!-- External JavaScripts
     ============================================= -->
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/plugins.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.js"></script>
+	<script type="text/javascript" src="assets/js/plugins.js"></script>
 
     <!-- Document Title
     ============================================= -->
@@ -51,8 +51,8 @@
                     <!-- Logo
                     ============================================= -->
                     <div id="logo">
-                        <a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Canvas Logo"></a>
-                        <a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a>
+                        <a href="index.html" class="standard-logo" data-dark-logo="assets/images/logo-dark.png"><img src="assets/images/logo.png" alt="Canvas Logo"></a>
+                        <a href="index.html" class="retina-logo" data-dark-logo="assets/images/logo-dark@2x.png"><img src="assets/images/logo@2x.png" alt="Canvas Logo"></a>
                     </div><!-- #logo end -->
 
                     <!-- Primary Navigation
@@ -618,7 +618,7 @@
                                 <div class="top-cart-items">
                                     <div class="top-cart-item clearfix">
                                         <div class="top-cart-item-image">
-                                            <a href="#"><img src="images/shop/small/1.jpg" alt="Blue Round-Neck Tshirt" /></a>
+                                            <a href="#"><img src="assets/images/shop/small/1.jpg" alt="Blue Round-Neck Tshirt" /></a>
                                         </div>
                                         <div class="top-cart-item-desc">
                                             <a href="#">Blue Round-Neck Tshirt</a>
@@ -628,7 +628,7 @@
                                     </div>
                                     <div class="top-cart-item clearfix">
                                         <div class="top-cart-item-image">
-                                            <a href="#"><img src="images/shop/small/6.jpg" alt="Light Blue Denim Dress" /></a>
+                                            <a href="#"><img src="assets/images/shop/small/6.jpg" alt="Light Blue Denim Dress" /></a>
                                         </div>
                                         <div class="top-cart-item-desc">
                                             <a href="#">Light Blue Denim Dress</a>
@@ -665,7 +665,7 @@
 
             <div class="swiper-container swiper-parent">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
+                    <div class="swiper-slide dark" style="background-image: url('assets/images/slider/swiper/1.jpg');">
                         <div class="container clearfix">
                             <div class="slider-caption slider-caption-center">
                                 <h2 data-caption-animate="fadeInUp">Welcome to Canvas</h2>
@@ -681,14 +681,14 @@
                             </div>
                         </div>
                         <div class="video-wrap">
-                            <video poster="images/videos/explore-poster.jpg" preload="auto" loop autoplay muted>
-                                <source src='images/videos/explore.mp4' type='video/mp4' />
-                                <source src='images/videos/explore.webm' type='video/webm' />
+                            <video poster="assets/images/videos/explore-poster.jpg" preload="auto" loop autoplay muted>
+                                <source src='assets/images/videos/explore.mp4' type='video/mp4' />
+                                <source src='assets/images/videos/explore.webm' type='video/webm' />
                             </video>
                             <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
                         </div>
                     </div>
-                    <div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
+                    <div class="swiper-slide" style="background-image: url('assets/images/slider/swiper/3.jpg'); background-position: center top;">
                         <div class="container clearfix">
                             <div class="slider-caption">
                                 <h2 data-caption-animate="fadeInUp">Great Performance</h2>
@@ -857,18 +857,18 @@
 
                     <div id="oc-clients-full" class="owl-carousel image-carousel">
 
-                        <a href="#"><img src="images/clients/1.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/2.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/3.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/4.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/5.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/6.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/7.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/8.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/9.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/10.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/11.png" alt="Clients"></a>
-                        <a href="#"><img src="images/clients/12.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/1.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/2.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/3.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/4.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/5.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/6.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/7.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/8.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/9.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/10.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/11.png" alt="Clients"></a>
+                        <a href="#"><img src="assets/images/clients/12.png" alt="Clients"></a>
 
                     </div>
 
@@ -921,11 +921,11 @@
 
                             <div class="widget clearfix">
 
-                                <img src="images/footer-widget-logo.png" alt="" class="footer-logo">
+                                <img src="assets/images/footer-widget-logo.png" alt="" class="footer-logo">
 
                                 <p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards.</p>
 
-                                <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
+                                <div style="background: url('assets/images/world-map.png') no-repeat center center; background-size: 100%;">
                                     <address>
                                         <strong>Headquarters:</strong><br>
                                         795 Folsom Ave, Suite 600<br>
@@ -1157,7 +1157,7 @@
 
     <!-- Footer Scripts
     ============================================= -->
-    <script type="text/javascript" src="js/functions.js"></script>
+    <script type="text/javascript" src="assets/js/functions.js"></script>
 
 </body>
 </html>
