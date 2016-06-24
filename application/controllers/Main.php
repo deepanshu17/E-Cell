@@ -18,4 +18,10 @@ class Main extends CI_Controller {
 		$this->load->view('main');
 		$this->load->view('template/footer');
 	}
+
+	public function about_us() {
+		$this->load->view('template/header');
+		$this->load->view('about');
+		$this->load->view('template/footer');
+	}
 }
