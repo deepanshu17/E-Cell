@@ -17,7 +17,6 @@
                 </div>
             </div>
 
-
             <script>
                 jQuery(document).ready(function($){
                     var swiperSlider = new Swiper('.swiper-parent',{
@@ -90,7 +89,6 @@
             </script>
 
         </section>
-
 
         <!-- Content
         ============================================= -->
