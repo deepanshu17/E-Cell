@@ -3,7 +3,7 @@
 
             <div class="swiper-container swiper-parent">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
+                    <div class="swiper-slide dark">
                         <div class="container clearfix">
                             <div class="slider-caption slider-caption-center col_full">
                                 <h2 style="font-size:30px;" data-caption-animate="fadeInUp">Dream the <span> impossible</span>. Do the <span>remarkable</span></h2>
