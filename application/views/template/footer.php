@@ -64,6 +64,6 @@
             </div><!-- #copyrights end -->
 
         </footer><!-- #footer end -->
-        <script type="text/javascript" src="assets/js/functions.js"></script>
+        <script type="text/javascript" src="<?php echo base_url().'assets/js/functions.js';?>"></script>
     </body>
 </html>
