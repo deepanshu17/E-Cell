@@ -1,4 +1,4 @@
-<footer id="footer" class="dark">
+        <footer id="footer" class="dark">
 
             <!-- Copyrights
             ============================================= -->
@@ -64,3 +64,6 @@
             </div><!-- #copyrights end -->
 
         </footer><!-- #footer end -->
+        <script type="text/javascript" src="assets/js/functions.js"></script>
+    </body>
+</html>
