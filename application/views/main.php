@@ -1,15 +1,13 @@
 
-        <section class="slider-parallax swiper_wrapper clearfix">
+        <section id="slider" class="slider-parallax swiper_wrapper clearfix">
 
             <div class="swiper-container swiper-parent">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
                         <div class="container clearfix">
-                            <div class="slider-caption slider-caption-center">
-                                <h2 data-caption-animate="tada">
-                                Dream the <span class="pi-text-base">impossible</span>. Do the <span class="pi-text-base">remarkable</span>
-                                </h2>
-                                <p data-caption-animate="fadeInUp" data-caption-delay="200">E Cell, IIIT Hyderabad. For people growing great ideas. <br/>
+                            <div class="slider-caption slider-caption-center col_full">
+                                <h2 style="font-size:30px;" data-caption-animate="fadeInUp">Dream the <span> impossible</span>. Do the <span>remarkable</span></h2>
+                                <p style="font-size:25px;" data-caption-animate="fadeInUp" data-caption-delay="200">E Cell, IIIT Hyderabad. For people growing great ideas. <br/>
             A non-profit organization run by the students, has been established with the objective of creating,
             manifesting and that promotes and celebrates the entrepreneurial spirit amongst the students and encourages
             them to be budding entrepreneurs.</p>

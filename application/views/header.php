@@ -58,10 +58,10 @@
 
                     <!-- Primary Navigation
                     ============================================= -->
-                    <nav id="primary-menu" class="sub-title">
+                    <nav id="primary-menu">
 
                         <ul>
-                            <li><a href="index.html"><div class="button button-3d">Home</div></a>
+                            <li><a href="index.html"><div>Home</div></a>
                                 <ul>
                                     <li><a href="index-corporate.html"><div>Home - Corporate</div></a>
 
