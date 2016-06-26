@@ -15,7 +15,7 @@ class Main extends CI_Controller {
 
 	public function contact_us() {
 		$this->load->view('template/header');
-		$this->load->view('main');
+		$this->load->view('contact_us');
 		$this->load->view('template/footer');
 	}
 
