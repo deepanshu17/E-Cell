@@ -7,56 +7,56 @@
                 <div class="container clearfix">
 
                     <div class="col_half">
-                        <img src="assets/images/footer-logo.png" alt="" class="footer-logo">
-
-                        Copyrights &copy; 2014 All Rights Reserved by Canvas Inc.
+                        Copyrights &copy; 2016 All Rights Reserved by E-Cell IIIT Hyderabad.<br>
+                        <div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
                     </div>
 
                     <div class="col_half col_last tright">
-                        <div class="copyrights-menu copyright-links fright clearfix">
-                            <a href="#">Home</a>/<a href="#">About</a>/<a href="#">Features</a>/<a href="#">Portfolio</a>/<a href="#">FAQs</a>/<a href="#">Contact</a>
-                        </div>
                         <div class="fright clearfix">
-                            <a href="#" class="social-icon si-small si-borderless nobottommargin si-facebook">
+                            <a href="#" class="social-icon si-small si-borderless si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-borderless nobottommargin si-twitter">
+                            <a href="#" class="social-icon si-small si-borderless si-twitter">
                                 <i class="icon-twitter"></i>
                                 <i class="icon-twitter"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-borderless nobottommargin si-gplus">
+                            <a href="#" class="social-icon si-small si-borderless si-gplus">
                                 <i class="icon-gplus"></i>
                                 <i class="icon-gplus"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-borderless nobottommargin si-pinterest">
+                            <a href="#" class="social-icon si-small si-borderless si-pinterest">
                                 <i class="icon-pinterest"></i>
                                 <i class="icon-pinterest"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-borderless nobottommargin si-vimeo">
+                            <a href="#" class="social-icon si-small si-borderless si-vimeo">
                                 <i class="icon-vimeo"></i>
                                 <i class="icon-vimeo"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-borderless nobottommargin si-github">
+                            <a href="#" class="social-icon si-small si-borderless si-github">
                                 <i class="icon-github"></i>
                                 <i class="icon-github"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-borderless nobottommargin si-yahoo">
+                            <a href="#" class="social-icon si-small si-borderless si-yahoo">
                                 <i class="icon-yahoo"></i>
                                 <i class="icon-yahoo"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-borderless nobottommargin si-linkedin">
+                            <a href="#" class="social-icon si-small si-borderless si-linkedin">
                                 <i class="icon-linkedin"></i>
                                 <i class="icon-linkedin"></i>
                             </a>
                         </div>
+
+                        <div class="clear"></div>
+
+                        <i class="icon-envelope2"></i> ecell@iiit.ac.in <span class="middot">&middot;</span> <i class="icon-headphones"></i> +91 9581248002
                     </div>
 
                 </div>
