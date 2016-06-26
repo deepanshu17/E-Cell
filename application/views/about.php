@@ -1,101 +1,45 @@
 
 
-    <div id="wrapper" class="clearfix">
 
-        <section id="page-title">
-
-            <div class="container clearfix">
-                <h1>Services</h1>
-                <span>We provide Amazing Solutions</span>
-                <ol class="breadcrumb">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Pages</a></li>
-                    <li class="active">Services</li>
-                </ol>
+<div id = "wrapper" class="clearfix">
+    <section id = "content">
+        <div id = "content-wrapper">
+            <div class = "container clearfix caption-center">
+                    <p class="center">E Cell, IIIT Hyderabad will be one stop platform for all informational needs with regards to start up activities,
+            funding, mentoring, networking and knowledge sharing. We want to build an ecosystem where networking and knowledge
+            sharing happens.
+            The cell conducts numerous workshops, seminars, events and interactive sessions with eminent entrepreneurs,
+            thus, providing the students with unparalleled exposure to the entrepreneurial world. It also provides the students
+            a platform to work on the live projects from start-ups which adds a star to their work experience and boosts management
+            expertise.</p>
             </div>
+        </div>
+    </section>
+</div>                    
 
-        </section><!-- #page-title end -->
+
+
+
+
+
+
+<div class="section parallax">
+    <div class="container clearfix">
+        <div>
+
+                    <p>E Cell, IIIT Hyderabad will be one stop platform for all informational needs with regards to start up activities,
+            funding, mentoring, networking and knowledge sharing. We want to build an ecosystem where networking and knowledge
+            sharing happens.
+            The cell conducts numerous workshops, seminars, events and interactive sessions with eminent entrepreneurs,
+            thus, providing the students with unparalleled exposure to the entrepreneurial world. It also provides the students
+            a platform to work on the live projects from start-ups which adds a star to their work experience and boosts management
+            expertise.</p>
+
+
+        </div>
+    </div>
 </div>
-        <!-- Content
-        ============================================= -->
-        <section id="content">
 
-            <div class="content-wrap">
-
-                <div class="container clearfix">
-
-                </div>
-
-                <div class="section">
-
-                    <div class="container clearfix">
-
-                        <div class="col_full">
-
-                            <img data-animate="fadeIn" class="aligncenter" src="assets/images//services/macbook.png" alt="Macbook">
-
-                        </div>
-
-                        <div class="col_one_third nobottommargin">
-
-                            <div class="feature-box fbox-plain">
-                                <div class="fbox-icon">
-                                    <a href="#"><i class="i-alt">1.</i></a>
-                                </div>
-                                <h3>Choose a Product.</h3>
-                                <p>Perferendis, nam. Eum aperiam vel animi beatae corporis dignissimos, molestias, placeat, maxime optio ipsam nostrum atque quidem.</p>
-                            </div>
-
-                        </div>
-
-                        <div class="col_one_third nobottommargin">
-
-                            <div class="feature-box fbox-plain">
-                                <div class="fbox-icon">
-                                    <a href="#"><i class="i-alt">2.</i></a>
-                                </div>
-                                <h3>Enter Shipping Info.</h3>
-                                <p>Saepe qui enim at animi. Repellendus, blanditiis doloremque asperiores reprehenderit deleniti. Ipsam nam accusantium ex!</p>
-                            </div>
-
-                        </div>
-
-                        <div class="col_one_third nobottommargin col_last">
-
-                            <div class="feature-box fbox-plain">
-                                <div class="fbox-icon">
-                                    <a href="#"><i class="i-alt">3.</i></a>
-                                </div>
-                                <h3>Complete your Payment.</h3>
-                                <p>Necessitatibus accusamus, inventore atque commodi, animi architecto ea sed, suscipit tempora ex deleniti quae. Consectetur, sint velit.</p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="container clearfix">
-
-                    <div class="col_two_fifth topmargin nobottommargin" id="radarChart" style="opacity: 0;">
-                        <canvas id="radarChartCanvas" width="430" height="300"></canvas>
-                    </div>
-
-                    <div class="col_three_fifth nobottommargin col_last">
-
-                        <div class="heading-block">
-                            <h3>Powerful insights to help grow your business.</h3>
-                            <span>Reports let you easily track and analyze your product sales, orders, and payments.</span>
-                        </div>
-
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosam!</p>
-
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam excepturi quod, fuga architecto provident, cupiditate delectus voluptate eaque! Sit neque ut eum, voluptatibus odit cum dolorum ipsa voluptates inventore cumque a.</p>
-
-                        <a href="#">Learn more &rarr;</a>
-
-                    </div>
 
                     <div class="clear"></div><div class="line"></div>
 
