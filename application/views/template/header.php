@@ -71,7 +71,7 @@
                             </li>
 
 
-                            <li><a href="#"><div>About Us</div></a>
+                            <li><a href="<?php echo site_url('about-us');?>"><div>About Us</div></a>
                                 <ul>
                                     <li><a href="#"><div><i class="icon-stack"></i>Introduction</div></a>
                                     </li>
@@ -89,7 +89,7 @@
                             <li><a href="shop.html"><div>Events</div></a>
                             </li>
                             
-                            <li><a href="shop.html"><div>Assosiates</div></a>
+                            <li><a href="<?php echo site_url('associates');?>"><div>Associates</div></a>
                             </li>
                             
                             <li><a href="<?php echo site_url('contact-us');?>"><div>Contact Us</div></a>
