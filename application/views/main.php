@@ -153,8 +153,3 @@
             </div>
 
         <!-- </section>#content end -->
-
-
-    <!-- Go To Top
-    ============================================= -->
-    <div id="gotoTop" class="icon-angle-up"></div>

@@ -1,3 +1,4 @@
+        <div id="gotoTop" class="icon-angle-up"></div>
         <footer id="footer" class="dark">
 
             <div class="container">

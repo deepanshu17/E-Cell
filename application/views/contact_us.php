@@ -15,11 +15,11 @@
             markers: [
                 {
                     address: "IIIT Gymnasium, Gachibowli, Hyderabad, Telangana 500032",
-                    html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>E-Cell@IIIT-H</span></h4><p class="nobottommargin">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.</p></div>',
+                    html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>E-Cell@IIIT-H</span></h4></div>',
                     icon: {
                         image: "<?php echo base_url().'assets/images/icons/map-icon-red.png';?>",
                         iconsize: [32, 39],
-                        iconanchor: [17.4472,78.3488]
+                        iconanchor: [17.448208,78.348672]
                     }
                 }
             ],
