@@ -1,6 +1,4 @@
 
-
-
 <div id = "wrapper" class="clearfix">
     <section id = "content">
         <div id = "content-wrapper">
@@ -16,9 +14,6 @@
         </div>
     </section>
 </div>                    
-
-
-
 
 
 

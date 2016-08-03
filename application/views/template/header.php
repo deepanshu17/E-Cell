@@ -33,7 +33,7 @@
 
 </head>
 
-<body class="stretched">
+<body class="stretched no-transition">
 
     <!-- Document Wrapper
     ============================================= -->
@@ -62,33 +62,15 @@
                     <nav id="primary-menu" >
 
                         <ul>
-                            <li><a href="index.html"><div>Home</div></a>
-                                <ul>
-                                    <li><a href="index-corporate.html"><div>Home - Corporate</div></a>
-
-                                    </li>                        
-                                </ul>
+                        
+                            <li><a href="<?php echo site_url('home');?>"><div>Home</div></a>
                             </li>
-
 
                             <li><a href="<?php echo site_url('about-us');?>"><div>About Us</div></a>
-                                <ul>
-                                    <li><a href="#"><div><i class="icon-stack"></i>Introduction</div></a>
-                                    </li>
-                                    <li><a href="#"><div><i class="icon-stack"></i>Vision</div></a>
-                                    </li>
-                                    <li><a href="#"><div><i class="icon-stack"></i>Timeline</div></a>
-                                    </li>
-                                </ul>
-                            </li>
-                  
-
-                            <li><a href="shop.html"><div>Initiatives</div></a>
+                                
+                            <li><a href="<?php echo site_url('events');?>"><div>Events</div></a>
                             </li>
 
-                            <li><a href="shop.html"><div>Events</div></a>
-                            </li>
-                            
                             <li><a href="<?php echo site_url('associates');?>"><div>Associates</div></a>
                             </li>
                             
