@@ -58,3 +58,4 @@ $route['about-us'] = 'main/about_us';
 $route['associates'] = 'main/associates';
 $route['events'] = 'main/events';
 $route['contact-us'] = 'main/contact_us';
+$route['send_contact_mail'] = 'main/send_contact_mail';
