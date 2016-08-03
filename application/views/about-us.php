@@ -17,7 +17,6 @@
                 <div class="col-sm-7 col-padding">
                     <div>
                         <div class="heading-block">
-                            <!-- <span class="before-heading color">CEO &amp; Co-Founder</span>-->
                             <h3>Introduction</h3>
                         </div>
 

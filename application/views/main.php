@@ -100,9 +100,12 @@
 
                 <div class="promo promo-light promo-full bottommargin-lg header-stick notopborder">
                     <div class="container clearfix">
-                        <h3>Call us today at <span>+91.22.57412541</span> or Email us at <span>support@canvas.com</span></h3>
-                        <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
-                        <a href="#" class="button button-dark button-xlarge button-rounded">Start Browsing</a>
+                        <div class="col_one_fifth">
+                            <h3>Updates</h3>
+                        </div>
+                        <!-- 
+                        <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
+                        <a href="#" class="button button-dark button-xlarge button-rounded">More details</a>
                     </div>
                 </div>
 
@@ -111,36 +114,36 @@
                     <div class="col_one_fourth nobottommargin">
                         <div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">
                             <div class="fbox-icon">
-                                <a href="#"><i class="i-alt noborder icon-shop"></i></a>
+                                <i class="i-alt noborder icon-bulb"></i>
                             </div>
-                            <h3>e-Commerce Solutions<span class="subtitle">Start your Own Shop today</span></h3>
+                            <h3>Innovation</h3>
                         </div>
                     </div>
 
                     <div class="col_one_fourth nobottommargin">
                         <div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">
                             <div class="fbox-icon">
-                                <a href="#"><i class="i-alt noborder icon-wallet"></i></a>
+                                <i class="i-alt noborder icon-pencil"></i>
                             </div>
-                            <h3>Easy Payment Options<span class="subtitle">Credit Cards &amp; PayPal Support</span></h3>
+                            <h3>Creativity</h3>
                         </div>
                     </div>
 
                     <div class="col_one_fourth nobottommargin">
                         <div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">
                             <div class="fbox-icon">
-                                <a href="#"><i class="i-alt noborder icon-megaphone"></i></a>
+                                <i class="i-alt noborder icon-line2-graph"></i>
                             </div>
-                            <h3>Instant Notifications<span class="subtitle">Realtime Email &amp; SMS Support</span></h3>
+                            <h3>Learning</h3>
                         </div>
                     </div>
 
                     <div class="col_one_fourth nobottommargin col_last">
                         <div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">
                             <div class="fbox-icon">
-                                <a href="#"><i class="i-alt noborder icon-fire"></i></a>
+                                <i class="i-alt noborder icon-group"></i>
                             </div>
-                            <h3>Hot Offers Daily<span class="subtitle">Upto 50% Discounts</span></h3>
+                            <h3>Leadership</h3>
                         </div>
                     </div>
 

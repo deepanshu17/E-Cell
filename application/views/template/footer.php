@@ -17,10 +17,10 @@
 
                             <div>
 
-                                <i class="icon-location" style="margin: 5px"></i> <abbr title="Address">
-                                    <strong>Address: </strong></abbr> CIE, Vindhya C4, IIIT Hyderabad, <br> Gachibowli, Hyderabad - 500032 <br><br>
+                                <i class="icon-location" style="margin: 5px"></i> <abbr title="Address" style="margin-right: 10px">
+                                    <strong>Address: </strong></abbr> <br>CIE, Vindhya C4, IIIT Hyderabad, <br> Gachibowli, Hyderabad - 500032 <br><br>
 
-                                <i class="icon-email3" style="margin: 5px"></i>  <abbr title="Email Address" style="margin-right: 10px"><strong>Email:</strong></abbr> ecell@iiit.ac.in <br>
+                                <i class="icon-line-mail" style="margin: 5px"></i>  <abbr title="Email Address" style="margin-right: 10px"><strong>Email:</strong></abbr> ecell@iiit.ac.in <br>
 
                                 <i class="icon-phone3" style="margin: 5px"></i> <abbr title="Phone Number" style="margin-right: 5px"><strong>Phone:</strong></abbr> +91-9581248002 <br>
 

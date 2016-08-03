@@ -43,7 +43,7 @@
 
             <div class="content-wrap">
 
-                <div class="container clearfix" style="backgroud-color : #F5F5F5">
+                <div class="container clearfix">
 
                     <!-- Postcontent
                     ============================================= -->
