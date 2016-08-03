@@ -19,8 +19,8 @@
                                     IIIT Hyderabad<br>
                                     Gachibowli 500032<br>
                                 </address>
-                                <i class="icon-phone3" style="margin: 5px"></i> <abbr title="Phone Number"><strong>Phone:</strong></abbr> (91) 8547 632521<br>
-                                <i class="icon-email3" style="margin: 5px"></i>  <abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
+                                <i class="icon-phone3" style="margin: 5px"></i> <abbr title="Phone Number"><strong>Phone:</strong></abbr> +91 9581248002<br>
+                                <i class="icon-email3" style="margin: 5px"></i>  <abbr title="Email Address"><strong>Email:</strong></abbr> ecell@iiit.ac.in
                             </div>
 
                         </div>
@@ -79,25 +79,25 @@
 
                         <div class="widget clearfix">
 
-                            <a href="#" class="social-icon si-small si-rounded si-facebook">
+                            <a href="https://www.facebook.com/ecell.iiithyd/" class="social-icon si-small si-rounded si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-rounded si-twitter">
+                            <a href="https://www.twitter.com/ecell_iiithyd" class="social-icon si-small si-rounded si-twitter">
                                 <i class="icon-twitter"></i>
                                 <i class="icon-twitter"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-rounded si-gplus">
+                            <!-- <a href="#" class="social-icon si-small si-rounded si-gplus">
                                 <i class="icon-gplus"></i>
                                 <i class="icon-gplus"></i>
                             </a>
-
+                            
                             <a href="#" class="social-icon si-small si-rounded si-pinterest">
                                 <i class="icon-youtube"></i>
                                 <i class="icon-youtube"></i>
-                            </a>
+                            </a> -->
 
                         </div>
 
@@ -120,7 +120,11 @@
                     <div class="col_half col_last tright">
                         <div class="fright clearfix">
                             <div class="copyrights-menu copyright-links nobottommargin">
-                                <a href="#">Home</a>/<a href="#">About</a>/<a href="#">Features</a>/<a href="#">Portfolio</a>/<a href="#">FAQs</a>/<a href="#">Contact</a>
+                                <a href="<?php echo site_url(); ?>">Home</a>/
+                                <a href="<?php echo site_url('about-us'); ?>">About Us</a>/
+                                <a href="<?php echo site_url('events'); ?>">Events</a>/
+                                <a href="<?php echo site_url('associates'); ?>">Associates</a>/
+                                <a href="<?php echo site_url('contact-us'); ?>">Contact Us</a>
                             </div>
                         </div>
                     </div>
