@@ -191,131 +191,136 @@
                 <h3>Our Team</h3>
             </div>
 
-            <div id="oc-team-list" class="owl-carousel team-carousel">
+            <div class="row">
 
-                <div class="oc-item">
-                    <div class="team team-list clearfix">
+                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
+
+                    <div class="team">
                         <div class="team-image">
-                            <img src="images/team/3.jpg" alt="John Doe">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
-                            <div class="team-content">
-                                <p>Carbon emissions reductions giving, legitimize amplify non-partisan Aga Khan. Policy dialogue assessment expert free-speech cornerstone disruptor freedom. Cesar Chavez empower.</p>
-                            </div>
-                            <a href="#" class="social-icon si-rounded si-small si-facebook">
+                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
+                            <h4 class="nomargin">+91 9703531305</h4>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
-                            <a href="#" class="social-icon si-rounded si-small si-twitter">
-                                <i class="icon-twitter"></i>
-                                <i class="icon-twitter"></i>
-                            </a>
-                            <a href="#" class="social-icon si-rounded si-small si-gplus">
-                                <i class="icon-gplus"></i>
-                                <i class="icon-gplus"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="oc-item">
-                    <div class="team team-list">
-                        <div class="team-image">
-                            <img src="images/team/2.jpg" alt="Josh Clark">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h4>Josh Clark</h4><span>Co-Founder</span></div>
-                            <div class="team-content">
-                                <p>Eradicate invest honesty human rights accessibility theory of social change. Diversity experience in the field compassion, inspire breakthroughs planned giving.</p>
-                            </div>
-                            <a href="#" class="social-icon si-rounded si-small si-github">
-                                <i class="icon-github"></i>
-                                <i class="icon-github"></i>
-                            </a>
-                            <a href="#" class="social-icon si-rounded si-small si-twitter">
-                                <i class="icon-twitter"></i>
-                                <i class="icon-twitter"></i>
-                            </a>
-                            <a href="#" class="social-icon si-rounded si-small si-dribbble">
-                                <i class="icon-dribbble"></i>
-                                <i class="icon-dribbble"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="oc-item">
-                    <div class="team team-list">
-                        <div class="team-image">
-                            <img src="images/team/8.jpg" alt="Mary Jane">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h4>Mary Jane</h4><span>Sales</span></div>
-                            <div class="team-content">
-                                <p>Carbon emissions reductions giving, legitimize amplify non-partisan Aga Khan. Policy dialogue assessment expert free-speech cornerstone disruptor freedom. Cesar Chavez empower.</p>
-                            </div>
-                            <a href="#" class="social-icon si-rounded si-small si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="#" class="social-icon si-rounded si-small si-twitter">
-                                <i class="icon-twitter"></i>
-                                <i class="icon-twitter"></i>
-                            </a>
-                            <a href="#" class="social-icon si-rounded si-small si-linkedin">
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
                                 <i class="icon-linkedin"></i>
                                 <i class="icon-linkedin"></i>
                             </a>
                         </div>
                     </div>
                 </div>
-                <div class="oc-item">
-                    <div class="team team-list clearfix">
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+
+                    <div class="team">
                         <div class="team-image">
-                            <img src="images/team/4.jpg" alt="Nix Maxwell">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h4>Nix Maxwell</h4><span>Support</span></div>
-                            <div class="team-content">
-                                <p>Eradicate invest honesty human rights accessibility theory of social change. Diversity experience in the field compassion, inspire breakthroughs planned giving.</p>
-                            </div>
-                            <a href="#" class="social-icon si-rounded si-small si-forrst">
-                                <i class="icon-forrst"></i>
-                                <i class="icon-forrst"></i>
+                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
+                            <h4 class="nomargin">+91 9703531305</h4>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
                             </a>
-                            <a href="#" class="social-icon si-rounded si-small si-skype">
-                                <i class="icon-skype"></i>
-                                <i class="icon-skype"></i>
-                            </a>
-                            <a href="#" class="social-icon si-rounded si-small si-flickr">
-                                <i class="icon-flickr"></i>
-                                <i class="icon-flickr"></i>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
                             </a>
                         </div>
                     </div>
                 </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
+                            <h4 class="nomargin">+91 9703531305</h4>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
+
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
+                            <h4 class="nomargin">+91 9703531305</h4>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
+                            <h4 class="nomargin">+91 9703531305</h4>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
+                            <h4 class="nomargin">+91 9703531305</h4>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
 
             </div>
-
-            <script type="text/javascript">
-
-                jQuery(document).ready(function($) {
-
-                    var ocTeam = $("#oc-team-list");
-
-                    ocTeam.owlCarousel({
-                        responsive:{
-                            0:{ items:1 },
-                            600:{ items:1 },
-                            1000:{ items:2 }
-                        },
-                        margin: 30,
-                        nav: false,
-                        dots:true
-                    });
-
-                });
-
-            </script>
         </div>
     </div>
 </section>
