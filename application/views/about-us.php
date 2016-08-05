@@ -104,8 +104,9 @@
             </div>
  -->
 
+            <div class="center"><h3><span>Co-ordinators and Events</span></h3></div>
 
-            <div class="row">
+        <div class="row">
 
                 <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
 
@@ -170,6 +171,13 @@
                     </div>
                 </div>
 
+        </div>
+
+
+            <div class="center"><h3><span>Corporate and Alumni Relations</span></h3></div>
+
+        <div class="row">
+
                 <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
 
                     <div class="team">
@@ -200,11 +208,11 @@
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Suhas Darsi</h3></div>
                             <div>+91-9000725505</div>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                            <a href="https://www.facebook.com/profile.php?id=100009195932434" class="social-icon inline-block si-small si-light si-borderless si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                            <a href="https://www.linkedin.com/in/suhas-darsi-766057104" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
                                 <i class="icon-linkedin"></i>
                                 <i class="icon-linkedin"></i>
                             </a>
@@ -233,8 +241,33 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
+        </div>
 
+            <div class="center"><h3><span>Social and Media Content</span></h3></div>
+
+        <div class="row">
+
+                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Sanket Shah">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">Sanket Shah</h3></div>
+                            <div>+91-9581105549</div>
+                            <a href="https://www.facebook.com/sanket.shah.7737" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="https://www.linkedin.com/in/sanket-shah-b6937ab1" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
                     <div class="team">
                         <div class="team-image">
                             <img src="<?php echo base_url().'assets/images/team/medha.jpg' ;?>" alt="Medha Sharma">
@@ -255,15 +288,14 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6 bottommargin rightmargin">
-
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/devansh.jpg' ;?>" alt="Devansh Manu">
+                            <img src="<?php echo base_url().'assets/images/team/devansh.jpeg' ;?>" alt="Devansh Manu">
                         </div>
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Devansh Manu</h3></div>
                             <div>+91-9822003456</div>
-                            <a href="www.facebook.com/devanshmanu" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                            <a href="https://www.facebook.com/devanshmanu" class="social-icon inline-block si-small si-light si-borderless si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
@@ -275,20 +307,23 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+        </div>
 
+        <div class="row">
+
+                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/shivang.jpg' ;?>" alt="John Doe">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Daksh Anand ">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">Shivang Nagaria</h3></div>
-                            <div>+91 9703531305</div>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                            <div class="team-title"><h3 class="nomargin">Daksh Anand </h3></div>
+                            <div>+91-7032404286</div>
+                            <a href="https://www.facebook.com/roxtar123" class="social-icon inline-block si-small si-light si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                            <a href="https://in.linkedin.com/in/daksh-anand-77b6b9118" class="social-icon inline-block si-small si-light si-linkedin">
                                 <i class="icon-linkedin"></i>
                                 <i class="icon-linkedin"></i>
                             </a>
@@ -296,7 +331,8 @@
                     </div>
                 </div>
 
-            </div>
+        </div>
+        
         </div>
     </div>
 </section>
