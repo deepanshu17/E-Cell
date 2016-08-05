@@ -10,11 +10,13 @@
 <section id="content">
             <div class="row common-height clearfix">
 
-                <div class="col-sm-5 col-padding" center center no-repeat; background-size: cover;">
+                <div class="col-md-5 col-padding" center center no-repeat; background-size: cover;">
+                    <div class="widget clearfix"></div>
+                    <div class="widget clearfix"></div>
                     <img src="<?php echo base_url().'assets/images/about-us/intro.jpg' ?>" alt="Intro">
                 </div>
 
-                <div class="col-sm-7 col-padding">
+                <div class="col-md-7 col-padding">
                     <div>
                         <div class="heading-block">
                             <h3>Introduction</h3>
@@ -23,7 +25,7 @@
                         <div class="row clearfix">
 
                             <div>
-                                <p> E-Cell, IIIT Hyderabad will be one stop platform for all informational needs with regards to start up activities, funding, mentoring, networking and knowledge sharing. We want to build an ecosystem where networking and knowledge sharing happens. The cell conducts numerous workshops, seminars, events and interactive sessions with eminent entrepreneurs, thus, providing the students with unparalleled exposure to the entrepreneurial world. It also provides the students a platform to work on the live projects from start-ups which adds a star to their work experience and boosts management expertise.
+                                <p style="font-size:15px;"> <span class="pi-text-base"> The Entrepreneurship Cell, IIIT Hyderabad</span> is a non-profit organization run by the students. It has been established with the objective of creating, manifesting the entrepreneurial spirit amongst the students and encourages them to be budding entrepreneurs. It will be one stop platform for all informational needs with regards to start up activities, funding, mentoring, networking and knowledge sharing.
                                 </p>
                                
                             </div>
@@ -46,8 +48,8 @@
 
                         <div class="row clearfix">
 
-                                <p>Employment respond committed meaningful fight against oppressions ocial challenges rural legal aid governance. Meaningful work, implementation, process cooperation, campaign inspire.</p>
-                                <p>Advancement, promising development John Lennon, our ambitions involvement underprivileged billionaire philanthropy save the world transform. Carbon rights maintain healthcare emergent, implementation inspire social change solve clean water livelihoods.</p>
+                                <p style="font-size:15px;"> We want to build an ecosystem where networking and knowledge sharing happens. The cell conducts numerous workshops, seminars, events and interactive sessions with eminent entrepreneurs, thus, providing the students unparalleled exposure to the entrepreneurial world. It also provides the students a platform to work on the live projects from start-ups which adds a star to their work experience and boosts management expertise.
+                                </p>
                                 
                         </div>
 
@@ -55,6 +57,8 @@
                 </div>
 
                 <div class="col-sm-5 col-padding" center center no-repeat; background-size: cover;">
+                    <div class="widget clearfix"></div>
+                    <div class="widget clearfix"></div>
                     <img src="<?php echo base_url().'assets/images/about-us/vision.jpg' ?>" alt="Vision">
                 </div>
 
@@ -69,11 +73,11 @@
                 <div class="col_one_third">
 
                     <div class="team">
-                        <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/3.jpg' ?>" alt="John Doe">
+                        <div>
+                            <img src="<?php echo base_url().'assets/images/team/dhriti.jpg' ?>" alt="Dhriti Goyal">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
+                            <div class="team-title"><h4>Dhriti Goyal</h4><span>CEO</span></div>
                             <a href="#" class="social-icon inline-block si-small si-light si-rounded si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
@@ -94,11 +98,11 @@
                 <div class="col_one_third">
 
                     <div class="team">
-                        <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/3.jpg' ?>" alt="Josh Thompson">
+                        <div>
+                            <img src="<?php echo base_url().'assets/images/team/deepanshu.jpg' ?>" alt="Deepanshu Jain">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h4>Josh Thompson</h4><span>Co-Founder</span></div>
+                            <div class="team-title"><h4>Deepanshu Jain</h4><span>Co-Founder</span></div>
                             <a href="#" class="social-icon inline-block si-small si-light si-rounded si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
@@ -119,11 +123,11 @@
                 <div class="col_one_third col_last">
 
                     <div class="team">
-                        <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/3.jpg' ?>" alt="Mary Jane">
+                        <div>
+                            <img src="<?php echo base_url().'assets/images/team/shivang.jpg' ?>" alt="Shivang Nagaria">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h4>Mary Jane</h4><span>Sales</span></div>
+                            <div class="team-title"><h4>Shivang Nagaria</h4><span>Sales</span></div>
                             <a href="#" class="social-icon inline-block si-small si-light si-rounded si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>

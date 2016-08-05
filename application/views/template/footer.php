@@ -7,7 +7,7 @@
                 ============================================= -->
                 <div class="footer-widgets-wrap clearfix">
 
-                    <div class="col_two_third col_last">
+                    <div class="col_one_third col_last">
 
                         <div class="widget clearfix">
 
@@ -17,12 +17,12 @@
 
                             <div>
 
-                                <i class="icon-location" style="margin: 5px"></i> <abbr title="Address" style="margin-right: 10px">
+                                <i class="icon-location" style="margin: 5px;"></i> <abbr title="Address" style="margin-right: 10px">
                                     <strong>Address: </strong></abbr> <br>CIE, Vindhya C4, IIIT Hyderabad, <br> Gachibowli, Hyderabad - 500032 <br><br>
 
-                                <i class="icon-line-mail" style="margin: 5px"></i>  <abbr title="Email Address" style="margin-right: 10px"><strong>Email:</strong></abbr> ecell@iiit.ac.in <br>
+                                <i class="icon-line-mail" style="margin: 5px;"></i>  <abbr title="Email Address" style="margin-right: 10px"><strong>Email:</strong></abbr> ecell@iiit.ac.in <br>
 
-                                <i class="icon-phone3" style="margin: 5px"></i> <abbr title="Phone Number" style="margin-right: 5px"><strong>Phone:</strong></abbr> +91-9581248002 <br>
+                                <i class="icon-phone3" style="margin: 5px;"></i> <abbr title="Phone Number" style="margin-right: 5px"><strong>Phone:</strong></abbr> +91-9581248002 <br>
 
                             </div>
 
@@ -30,10 +30,57 @@
 
                     </div>
 
-                    <div class="col_one_third topmargin-lg fright">
-                        <div class="widget clearfix"></div>
-                        <div class="widget clearfix"></div>
+                    <div class="col_two_third col_last">
+                        <!-- <div class="widget clearfix"></div> -->
+
                         <div class="widget clearfix">
+                            <h3>Testimonials</h3>
+
+                            <div class="fslider testimonial no-image nobg noborder noshadow nopadding" data-animation="slide" data-arrows="false">
+                                <div class="flexslider">
+                                    <div class="slider-wrap">
+                                        <div class="slide">
+                                            <div class="testi-image">
+                                                <a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
+                                            </div>
+                                            <div class="testi-content">
+                                                <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+                                                <div class="testi-meta">
+                                                    Steve Jobs
+                                                    <span>Apple Inc.</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="slide">
+                                            <div class="testi-image">
+                                                <a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
+                                            </div>
+                                            <div class="testi-content">
+                                                <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+                                                <div class="testi-meta">
+                                                    Collis Ta'eed
+                                                    <span>Envato Inc.</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="slide">
+                                            <div class="testi-image">
+                                                <a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails"></a>
+                                            </div>
+                                            <div class="testi-content">
+                                                <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+                                                <div class="testi-meta">
+                                                    John Doe
+                                                    <span>XYZ Inc.</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="widget clearfix fright">
 
                             <a href="https://www.facebook.com/ecell.iiithyd/" class="social-icon si-small si-rounded si-facebook">
                                 <i class="icon-facebook"></i>

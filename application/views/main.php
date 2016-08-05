@@ -9,11 +9,11 @@
                                 <h2 data-caption-animate="fadeInUp">
                                 Dream the <span class="pi-text-base">impossible</span>. Do the <span class="pi-text-base">remarkable</span>
                                 </h2>
-                                <p data-caption-animate="fadeInUp" data-caption-delay="20   0">E Cell, IIIT Hyderabad. For people growing great ideas. <br/>
+<!--                                 <p data-caption-animate="fadeInUp" data-caption-delay="20   0">E Cell, IIIT Hyderabad. For people growing great ideas. <br/>
             A non-profit organization run by the students, has been established with the objective of creating,
             manifesting and that promotes and celebrates the entrepreneurial spirit amongst the students and encourages
             them to be budding entrepreneurs.</p>
-                            </div>
+ -->                            </div>
                         </div>
                     </div>
                 </div>

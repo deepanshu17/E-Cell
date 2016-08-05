@@ -19,55 +19,110 @@
 
                 <div class="container clearfix">
 
+                    <div class="bottommargin">
+                            <h1>Past Events </h1>
+                    </div>
+
                     <!-- Posts
                     ============================================= -->
                     <div id="posts" class="small-thumbs">
 
-                        <div class="entry clearfix">
+                        <div>
                             <div class="entry-image">
-                                <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="images/blog/small/17.jpg" alt="Standard Post with Image"></a>
+                                <a href="<?php echo base_url().'assets/images/blog/blog1.jpg' ?>" data-lightbox="image"><img class="image_fade" src="<?php echo base_url().'assets/images/blog/blog1.jpg' ?>" alt="Standard Post with Image"></a>
                             </div>
                             <div class="entry-c">
-                                <div class="entry-title">
-                                    <h2><a href="blog-single.html">This is a Standard post with a Preview Image</a></h2>
+                                <div>
+                                    <h2>An Interactive Session with Mr. Chaitanya Chokkareddy</h2>
                                 </div>
                                 <ul class="entry-meta clearfix">
-                                    <li><i class="icon-calendar3"></i> 10th February 2014</li>
+                                    <li><i class="icon-calendar3" style="margin: 10px;"></i> 30th March 2016</li>
                                 </ul>
-                                <div class="entry-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, asperiores quod est tenetur in. Eligendi, deserunt, blanditiis est quisquam doloribus voluptate id aperiam ea ipsum magni aut perspiciatis rem voluptatibus officia eos rerum deleniti quae nihil facilis repellat atque vitae voluptatem libero at eveniet veritatis ab facere.</p>
-                                    <a href="blog-single.html"class="more-link">Read More</a>
+                                <div class="entry-content" style="font-size:15px;">
+                                    <p>We invite you to an Interactive Session with Mr. Chaitanya Chokkareddy, <strong>Chief Innovation Officer at Ozonetel Systems</strong> followed by discussion on interesting journeys of some of the most successful startups.</p>
+                                    <!-- <a href="blog-single.html"class="more-link">Read More</a> -->
                                 </div>
                             </div>
-                        </div>
-
+                        </div>                      
                      
+                    </div>
+                </div>
+            </div>
+        </section>
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <div class="fslider" data-arrows="false" data-lightbox="gallery">
-                                    <div class="flexslider">
-                                        <div class="slider-wrap">
-                                            <div class="slide"><a href="images/blog/full/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/blog/small/10.jpg" alt="Standard Post with Gallery"></a></div>
-                                            <div class="slide"><a href="images/blog/full/20.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/blog/small/20.jpg" alt="Standard Post with Gallery"></a></div>
-                                            <div class="slide"><a href="images/blog/full/21.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/blog/small/21.jpg" alt="Standard Post with Gallery"></a></div>
-                                        </div>
-                                    </div>
-                                </div>
+
+         <section id="content">
+
+            <div class="content-wrap">
+
+                <div class="container clearfix">
+
+                    <h1>Gallery</h1>
+
+                    <div class="section footer-stick">
+
+                        <div id="oc-clients-full" class="owl-carousel owl-carousel-full image-carousel">
+
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
                             </div>
-                            <div class="entry-c">
-                                <div class="entry-title">
-                                    <h2><a href="blog-single-small.html">This is a Standard post with a Slider Gallery</a></h2>
-                                </div>
-                                <ul class="entry-meta clearfix">
-                                    <li><i class="icon-calendar3"></i> 24th February 2014</li>
-                                </ul>
-                                <div class="entry-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur voluptate rerum molestiae eaque possimus exercitationem eligendi fuga. Maiores, sunt eveniet doloremque porro hic exercitationem distinctio sequi adipisci.</p>
-                                    <a href="blog-single-small.html"class="more-link">Read More</a>
-                                </div>
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
                             </div>
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a href="<?php echo base_url().'assets/images/team/1.jpg' ?>" data-lightbox="image"><img src="<?php echo base_url().'assets/images/clients/1.png' ?>" alt="Brands"></a>
+                            </div>
+                            
                         </div>
+
+                        <script type="text/javascript">
+
+                            jQuery(document).ready(function($) {
+
+                                var ocClientsFull = $("#oc-clients-full");
+
+                                ocClientsFull.owlCarousel({
+                                    items: 5,
+                                    margin: 30,
+                                    loop: true,
+                                    nav: true,
+                                    navText: ['<i class="icon-angle-left"></i>','<i class="icon-angle-right"></i>'],
+                                    autoplay: true,
+                                    autoplayHoverPause: false,
+                                    dots: false,
+                                    navRewind: false,
+                                    responsive:{
+                                        0:{ items:2 },
+                                        480:{ items:3 },
+                                        768:{ items:4 },
+                                        992:{ items:5 },
+                                        1200:{ items:7 },
+                                        1400:{ items:8 }
+                                    }
+                                });
+
+                            });
+
+                        </script>
+
                     </div>
                 </div>
             </div>
