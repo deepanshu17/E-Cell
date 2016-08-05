@@ -27,12 +27,9 @@
 
                         <div class="row clearfix">
 
-                            <div>
-                                <p style="font-size:15px;"> <span class="pi-text-base"> The Entrepreneurship Cell, IIIT Hyderabad</span> is a non-profit organization run by the students. It has been established with the objective of creating, manifesting the entrepreneurial spirit amongst the students and encourages them to be budding entrepreneurs. It will be one stop platform for all informational needs with regards to start up activities, funding, mentoring, networking and knowledge sharing.
+                                <p style="font-size:15px;"> <span> The Entrepreneurship Cell, IIIT Hyderabad</span> is a non-profit organization run by the students. It has been established with the objective of creating, manifesting the entrepreneurial spirit amongst the students and encourages them to be budding entrepreneurs. It will be one stop platform for all informational needs with regards to start up activities, funding, mentoring, networking and knowledge sharing.
                                 </p>
                                
-                            </div>
-
                         </div>
 
                     </div>
@@ -63,118 +60,8 @@
                     <!-- <div class="widget clearfix"></div> -->
                     <img src="<?php echo base_url().'assets/images/about-us/vision.jpg' ?>" alt="Vision">
                 </div>
-
             </div>
 
-           <!--  <div class="container clearfix">
-
-                <div class="fancy-title title-border">
-                    <h3>Our Team</h3>
-                </div>
-
-                <div class="col_one_third">
-
-                    <div class="team">
-                        <div>
-                            <img src="<?php echo base_url().'assets/images/team/dhriti.jpg' ?>" alt="Dhriti Goyal">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h4>Dhriti Goyal</h4><span>CEO</span></div>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-twitter">
-                                <i class="icon-twitter"></i>
-                                <i class="icon-twitter"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-gplus">
-                                <i class="icon-gplus"></i>
-                                <i class="icon-gplus"></i>
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col_one_third">
-
-                    <div class="team">
-                        <div>
-                            <img src="<?php echo base_url().'assets/images/team/deepanshu.jpg' ?>" alt="Deepanshu Jain">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h4>Deepanshu Jain</h4><span>Co-Founder</span></div>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-twitter">
-                                <i class="icon-twitter"></i>
-                                <i class="icon-twitter"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-gplus">
-                                <i class="icon-gplus"></i>
-                                <i class="icon-gplus"></i>
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col_one_third col_last">
-
-                    <div class="team">
-                        <div>
-                            <img src="<?php echo base_url().'assets/images/team/shivang.jpg' ?>" alt="Shivang Nagaria">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h4>Shivang Nagaria</h4><span>Sales</span></div>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-twitter">
-                                <i class="icon-twitter"></i>
-                                <i class="icon-twitter"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-gplus">
-                                <i class="icon-gplus"></i>
-                                <i class="icon-gplus"></i>
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col_one_third">
-
-                    <div class="team">
-                        <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/3.jpg' ?>" alt="John Doe">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-twitter">
-                                <i class="icon-twitter"></i>
-                                <i class="icon-twitter"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-rounded si-gplus">
-                                <i class="icon-gplus"></i>
-                                <i class="icon-gplus"></i>
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="clear"></div>
-
-            </div> -->
         <!-- </div> -->
     </div>
 </section>
@@ -188,8 +75,35 @@
 
             
             <div class="fancy-title title-border">
-                <h3>Our Team</h3>
+                <h2>Our Team</h2>
             </div>
+
+<!--         <div class="row">
+
+                <div class="col_one_third nomarg">
+                    <div class="team team-list clearfix">
+                        <div class="team-image col-padding nomargin notoppadding ">
+                            <img src="<?php echo base_url().'assets/images/team/dhriti.jpg' ?>" alt="John Doe">
+                        </div>
+                        <div class="nomargin">
+                            <div class="title nomargin"><h4 class="nomargin">Dhriti Goyal</h4></div>
+                            <div class="team-content nomargin">
+                                <p class="nomargin col">+91-9581248002</p>
+                            </div>
+                            <a href="#" class="social-icon  si-facebook si-small">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="#" class="social-icon  si-linkedin si-small">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+ -->
+
 
             <div class="row">
 
@@ -197,11 +111,95 @@
 
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                            <img src="<?php echo base_url().'assets/images/team/dhriti.jpg' ;?>" alt="Dhriti Goyal">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
-                            <h4 class="nomargin">+91 9703531305</h4>
+                            <div class="team-title"><h3 class="nomargin">Dhriti Goyal</h3></div>
+                            <div>+91-9581248002</div>
+                            <a href="#" class="social-icon inline-block si-small si-light si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="#" class="social-icon inline-block si-small si-light si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/deepanshu.jpg' ;?>" alt="Deepanshu Jain">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">Deepanshu Jain</h3></div>
+                            <div>+91-8106541899</div>
+                            <a href="https://www.facebook.com/deepanshu.jain.184" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="https://www.linkedin.com/in/deepanshu17" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/shivang.jpg' ;?>" alt="Shivang Nagaria">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">Shivang Nagaria</h3></div>
+                            <div>+91-9703531305</div>
+                            <a href="https://www.facebook.com/shivang.nagaria" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="https://www.linkedin.com/in/shivang-nagaria" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
+
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Parin Vachhani">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">Parin Vachhani</h3></div>
+                            <div>+91-9704197318</div>
+                            <a href="#" class="social-icon inline-block si-small si-light si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="#" class="social-icon inline-block si-small si-light si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Suhas Darsi">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">Suhas Darsi</h3></div>
+                            <div>+91-9000725505</div>
                             <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
@@ -218,32 +216,11 @@
 
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Nishant Gupta">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
-                            <h4 class="nomargin">+91 9703531305</h4>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
-                                <i class="icon-linkedin"></i>
-                                <i class="icon-linkedin"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
-
-                    <div class="team">
-                        <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
-                            <h4 class="nomargin">+91 9703531305</h4>
+                            <div class="team-title"><h3 class="nomargin">Nishant Gupta</h3></div>
+                            <div></div>
                             <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
@@ -260,16 +237,16 @@
 
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                            <img src="<?php echo base_url().'assets/images/team/medha.jpg' ;?>" alt="Medha Sharma">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
-                            <h4 class="nomargin">+91 9703531305</h4>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                            <div class="team-title"><h3 class="nomargin">Medha Sharma</h3></div>
+                            <div>+91-9618231365</div>
+                            <a href="https://www.facebook.com/medha.sharma.238" class="social-icon inline-block si-small si-light si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                            <a href="#" class="social-icon inline-block si-small si-light si-linkedin">
                                 <i class="icon-linkedin"></i>
                                 <i class="icon-linkedin"></i>
                             </a>
@@ -281,16 +258,16 @@
 
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                            <img src="<?php echo base_url().'assets/images/team/devansh.jpg' ;?>" alt="Devansh Manu">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
-                            <h4 class="nomargin">+91 9703531305</h4>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                            <div class="team-title"><h3 class="nomargin">Devansh Manu</h3></div>
+                            <div>+91-9822003456</div>
+                            <a href="www.facebook.com/devanshmanu" class="social-icon inline-block si-small si-light si-borderless si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
-                            <a href="#" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                            <a href="https://www.linkedin.com/in/devanshmanu" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
                                 <i class="icon-linkedin"></i>
                                 <i class="icon-linkedin"></i>
                             </a>
@@ -302,11 +279,11 @@
 
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="John Doe">
+                            <img src="<?php echo base_url().'assets/images/team/shivang.jpg' ;?>" alt="John Doe">
                         </div>
                         <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">John Doe</h3><span>CEO</span></div>
-                            <h4 class="nomargin">+91 9703531305</h4>
+                            <div class="team-title"><h3 class="nomargin">Shivang Nagaria</h3></div>
+                            <div>+91 9703531305</div>
                             <a href="#" class="social-icon inline-block si-small si-light si-borderless si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
@@ -318,7 +295,6 @@
                         </div>
                     </div>
                 </div>
-
 
             </div>
         </div>

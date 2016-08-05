@@ -19,8 +19,8 @@
 
                 <div class="container clearfix">
 
-                    <div class="bottommargin">
-                            <h1>Past Events </h1>
+                    <div class="bottommargin fancy-title title-border">
+                            <h2>Past Events </h2>
                     </div>
 
                     <!-- Posts
@@ -33,7 +33,7 @@
                             </div>
                             <div class="entry-c">
                                 <div>
-                                    <h2>An Interactive Session with Mr. Chaitanya Chokkareddy</h2>
+                                    <h3>An Interactive Session with Mr. Chaitanya Chokkareddy</h3>
                                 </div>
                                 <ul class="entry-meta clearfix">
                                     <li><i class="icon-calendar3" style="margin: 10px;"></i> 30th March 2016</li>
@@ -57,7 +57,9 @@
 
                 <div class="container clearfix">
 
-                    <h1>Gallery</h1>
+                    <div class="fancy-title title-border">
+                        <h2>Gallery</h2>                        
+                    </div>
 
                     <div class="section footer-stick">
 
