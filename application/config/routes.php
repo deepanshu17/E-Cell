@@ -54,7 +54,7 @@ $route['default_controller'] = 'Main';
 $route['home'] = 'Main/index';
 $route['about-us'] = 'Main/about_us';
 $route['associates'] = 'Main/associates';
-$route['events'] = 'Main';
+$route['events'] = 'Main/events';
 $route['contact-us'] = 'Main/contact_us';
 $route['send_contact_mail'] = 'Main/send_contact_mail';
 
