@@ -37,7 +37,7 @@
 
                 <article class="portfolio-item">
                     <div>
-                        <img src="<?php echo base_url().'assets/images/association/ecell-iitbd.png' ;?>" alt="E-Cell IIT-Bombay">
+                        <img src="<?php echo base_url().'assets/images/association/ecell-iitb1.png' ;?>" alt="E-Cell IIT-Bombay">
                     </div>
                 </article>
                               

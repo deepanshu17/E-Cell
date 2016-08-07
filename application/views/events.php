@@ -4,7 +4,7 @@
             <div class="container clearfix vertical-middle" style="z-index: 3;">
 
                 <div class="heading-block title-center ">
-                    <h1>The Apple WWDC Event starts in:</h1>
+                    <h1>The ABC Event starts in:</h1>
                 </div>
 
             </div>

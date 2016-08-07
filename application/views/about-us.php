@@ -71,7 +71,7 @@
 
     <div class="content-wrap">
 
-        <div class="container clearfix">
+     <div class="container clearfix">
 
             
             <div class="fancy-title title-border">
@@ -117,7 +117,7 @@
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Dhriti Goyal</h3></div>
                             <div>+91-9581248002</div>
-                            <a href="#" class="social-icon inline-block si-small si-light si-facebook">
+                            <a href="" class="social-icon inline-block si-small si-light si-facebook">
                                 <i class="icon-facebook"></i>
                                 <i class="icon-facebook"></i>
                             </a>
@@ -182,7 +182,7 @@
 
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Parin Vachhani">
+                            <img src="<?php echo base_url().'assets/images/team/parin.jpg' ;?>" alt="Parin Vachhani">
                         </div>
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Parin Vachhani</h3></div>
@@ -203,7 +203,7 @@
 
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Suhas Darsi">
+                            <img src="<?php echo base_url().'assets/images/team/suhas.jpg' ;?>" alt="Suhas Darsi">
                         </div>
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Suhas Darsi</h3></div>
@@ -224,7 +224,7 @@
 
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Nishant Gupta">
+                            <img src="<?php echo base_url().'assets/images/team/nishant.jpg' ;?>" alt="Nishant Gupta">
                         </div>
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Nishant Gupta</h3></div>
@@ -250,7 +250,27 @@
                 <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Sanket Shah">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Sairam Kolla">
+                        </div>
+                        <div class="team-desc">
+                            <div class="team-title"><h3 class="nomargin">Sairam Kolla</h3></div>
+                            <div>+91-8897970502</div>
+                            <a href="https://www.facebook.com/kolla.sairam01" class="social-icon inline-block si-small si-light si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="https://www.linkedin.com/in/sairam-kolla-798356b1" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+                    <div class="team">
+                        <div class="team-image">
+                            <img src="<?php echo base_url().'assets/images/team/sanket.jpg' ;?>" alt="Sanket Shah">
                         </div>
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Sanket Shah</h3></div>
@@ -286,8 +306,12 @@
                         </div>
                     </div>
                 </div>
+                
+        </div>
 
-                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+        <div class="row">
+
+                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
                     <div class="team">
                         <div class="team-image">
                             <img src="<?php echo base_url().'assets/images/team/devansh.jpeg' ;?>" alt="Devansh Manu">
@@ -307,11 +331,7 @@
                     </div>
                 </div>
 
-        </div>
-
-        <div class="row">
-
-                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
                     <div class="team">
                         <div class="team-image">
                             <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Daksh Anand ">
@@ -333,6 +353,7 @@
 
         </div>
         
+
         </div>
     </div>
 </section>

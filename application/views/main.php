@@ -105,7 +105,9 @@
                         </div>
                         <!-- 
                         <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
-                        <a href="#" class="button button-dark button-xlarge button-rounded">More details</a>
+                        <a href="<?php echo site_url('events'); ?>" class="button button-dark button-xlarge button-rounded">More details
+                <i class="icon-line-arrow-right"></i>
+            </a>
                     </div>
                 </div>
 
@@ -154,5 +156,5 @@
                 </div>
 
             </div>
-
-        <!-- </section>#content end -->
+    </section>
+        <!-- content end -->
