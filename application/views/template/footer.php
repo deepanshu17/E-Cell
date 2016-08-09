@@ -35,43 +35,44 @@
 
                         <div class="widget clearfix">
                             <h3></h3>
+                            <h3></h3>
 
                             <div class="fslider testimonial no-image nobg noborder noshadow nopadding" data-animation="slide" data-arrows="false">
                                 <div class="flexslider">
                                     <div class="slider-wrap">
                                         <div class="slide">
-                                            <div class="testi-image">
+                                            <!-- <div class="testi-image">
                                                 <a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
-                                            </div>
+                                            </div> -->
                                             <div class="testi-content">
-                                                <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+                                                <p>It’s not about ideas. It’s about making ideas happen.</p>
                                                 <div class="testi-meta">
-                                                    Steve Jobs
-                                                    <span>Apple Inc.</span>
+                                                    Scott Belsky
+                                                    <span>Behance</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="slide">
-                                            <div class="testi-image">
+                                            <!-- <div class="testi-image">
                                                 <a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
-                                            </div>
+                                            </div> -->
                                             <div class="testi-content">
-                                                <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+                                                <p>I could either watch it happen or be a part of it.</p>
                                                 <div class="testi-meta">
-                                                    Collis Ta'eed
-                                                    <span>Envato Inc.</span>
+                                                    Elon Musk
+                                                    <span>Tesla Motors</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="slide">
-                                            <div class="testi-image">
+                                            <!-- <div class="testi-image">
                                                 <a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails"></a>
-                                            </div>
+                                            </div> -->
                                             <div class="testi-content">
-                                                <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+                                                <p>Every risk is worth taking as long as it's for a good cause, and contributes to a good life.</p>
                                                 <div class="testi-meta">
-                                                    John Doe
-                                                    <span>XYZ Inc.</span>
+                                                    Richard Branson
+                                                    <span>Virgin Group</span>
                                                 </div>
                                             </div>
                                         </div>
