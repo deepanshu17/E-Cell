@@ -34,7 +34,7 @@
                         <!-- <div class="widget clearfix"></div> -->
 
                         <div class="widget clearfix">
-                            <h3>Testimonials</h3>
+                            <h3></h3>
 
                             <div class="fslider testimonial no-image nobg noborder noshadow nopadding" data-animation="slide" data-arrows="false">
                                 <div class="flexslider">

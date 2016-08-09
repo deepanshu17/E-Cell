@@ -52,9 +52,9 @@
                     <!-- Logo
                     ============================================= -->
                     <div id="logo">
-                        <a href="<?php echo site_url('index') ; ?>" class="standard-logo" data-dark-logo="<?php echo base_url().'assets/images/logo-ecell.png';?>">
+                        <a href="<?php echo site_url('') ; ?>" class="standard-logo" data-dark-logo="<?php echo base_url().'assets/images/logo-ecell.png';?>">
                         <img src="<?php echo base_url().'assets/images/logo-ecell.png' ;?>" alt="E-Cell@IIIT-H"></a>
-                        <a href="<?php echo site_url('index') ; ?>" class="retina-logo" data-dark-logo="<?php echo base_url().'assets/images/logo-ecell@2x.png' ;?>"><img src="<?php echo base_url().'assets/images/logo-ecell@2x.png' ;?>" alt="E-Cell@IIIT-H"></a>
+                        <a href="<?php echo site_url('') ; ?>" class="retina-logo" data-dark-logo="<?php echo base_url().'assets/images/logo-ecell@2x.png' ;?>"><img src="<?php echo base_url().'assets/images/logo-ecell@2x.png' ;?>" alt="E-Cell@IIIT-H"></a>
                     </div><!-- #logo end -->
 
                     <!-- Primary Navigation
@@ -63,7 +63,7 @@
 
                         <ul>
                         
-                            <li><a href="<?php echo site_url('home');?>"><div>Home</div></a>
+                            <li><a href="<?php echo site_url('');?>"><div>Home</div></a>
                             </li>
 
                             <li><a href="<?php echo site_url('about-us');?>"><div>About Us</div></a>

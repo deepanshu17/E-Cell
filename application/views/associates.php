@@ -32,6 +32,9 @@
 
             </div>
 
+	    <div class="widget clearfix"></div>
+       <div><h2><span>Associate Partners</span></h2></div>
+
 
             <div id="portfolio" class="portfolio-3 clearfix topmargin">
 
@@ -45,4 +48,4 @@
     </div>
 </section>
 
-<!-- 2ND DIV -> class="portfolio-image" ; -->
+<!-- 2ND Sub DIV -> class="portfolio-image" ; -->

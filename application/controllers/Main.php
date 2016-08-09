@@ -51,13 +51,14 @@ class Main extends CI_Controller {
 		$this->email->to('ecell@iiit.ac.in');
 
 		$this->email->subject($subject);
-		$email_msg = $message;  
-		$this->email->message($email_msg);
+		$msg = "From:". $email . "\n" . $message;
+		$this->email->message($msg);
 
 		$this->email->send();
 
-		$this->email->print_debugger();
+		//$this->email->print_debugger();
 		redirect('contact-us', 'refresh');
 	}
 
 }
+?>

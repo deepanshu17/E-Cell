@@ -14,7 +14,6 @@
             <div class="row common-height">
 
                 <div class="col-md-5 col-padding center center no-repeat; background-size: cover;">
-                    
                     <img src="<?php echo base_url().'assets/images/about-us/intro.jpg' ?>" alt="Intro">
                 </div>
 
@@ -33,10 +32,10 @@
 
                     </div>
                 </div>
-            </div>
 
-                <div class="widget clearfix"></div>
-                <div class="widget clearfix"></div>
+            </div>
+                    <div class="widget clearfix"></div>
+                    <div class="widget clearfix"></div>
 
             <div class="row common-height clearfix">
 
@@ -57,7 +56,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-5 col-padding" center center no-repeat; background-size: cover;">
+                <div class="col-sm-5 col-padding center center no-repeat; background-size: cover;">
                     <!-- <div class="widget clearfix"></div> -->
                     <img src="<?php echo base_url().'assets/images/about-us/vision.jpg' ?>" alt="Vision">
                 </div>
@@ -65,7 +64,6 @@
 
         <!-- </div> -->
     </div>
-
 
     <div class="content-wrap">
 
@@ -75,32 +73,6 @@
             <div class="fancy-title title-border">
                 <h2>Our Team</h2>
             </div>
-
-<!--         <div class="row">
-
-                <div class="col_one_third nomarg">
-                    <div class="team team-list clearfix">
-                        <div class="team-image col-padding nomargin notoppadding ">
-                            <img src="<?php echo base_url().'assets/images/team/dhriti.jpg' ?>" alt="John Doe">
-                        </div>
-                        <div class="nomargin">
-                            <div class="title nomargin"><h4 class="nomargin">Dhriti Goyal</h4></div>
-                            <div class="team-content nomargin">
-                                <p class="nomargin col">+91-9581248002</p>
-                            </div>
-                            <a href="#" class="social-icon  si-facebook si-small">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="#" class="social-icon  si-linkedin si-small">
-                                <i class="icon-linkedin"></i>
-                                <i class="icon-linkedin"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
- -->
 
             <div class="center"><h3><span>Co-ordinators and Events</span></h3></div>
 
@@ -241,33 +213,6 @@
 
         </div>
 
-
-        <div class="row">
-
-                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
-
-                    <div class="team">
-                        <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/jeevan.jpg' ;?>" alt="Jeevan Chowdary">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">Jeevan Chowdary</h3></div>
-                            <div>+91-9052700682</div>
-                            <a href="https://www.facebook.com/g1.8.jeevan" class="social-icon inline-block si-small si-light si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="https://www.linkedin.com/in/jeevanchowdary" class="social-icon inline-block si-small si-light si-linkedin">
-                                <i class="icon-linkedin"></i>
-                                <i class="icon-linkedin"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-        </div>
-
-
             <div class="center"><h3><span>Social and Media Content</span></h3></div>
 
         <div class="row">
@@ -275,7 +220,7 @@
                 <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/sairam.jpg' ;?>" alt="Sairam Kolla">
+                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Sairam Kolla">
                         </div>
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Sairam Kolla</h3></div>
@@ -285,26 +230,6 @@
                                 <i class="icon-facebook"></i>
                             </a>
                             <a href="https://www.linkedin.com/in/sairam-kolla-798356b1" class="social-icon inline-block si-small si-light si-borderless si-linkedin">
-                                <i class="icon-linkedin"></i>
-                                <i class="icon-linkedin"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
-                    <div class="team">
-                        <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/arihant.jpg' ;?>" alt="Arihant Jain">
-                        </div>
-                        <div class="team-desc">
-                            <div class="team-title"><h3 class="nomargin">Arihant Jain</h3></div>
-                            <div>+91-7799270649</div>
-                            <a href="https://www.facebook.com/arihantjn53" class="social-icon inline-block si-small si-light si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-                            <a href="https://www.linkedin.com/in/arihantjn53" class="social-icon inline-block si-small si-light si-linkedin">
                                 <i class="icon-linkedin"></i>
                                 <i class="icon-linkedin"></i>
                             </a>
@@ -331,11 +256,8 @@
                         </div>
                     </div>
                 </div>
-        </div>
 
-        <div class="row">
-
-                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
+                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
                     <div class="team">
                         <div class="team-image">
                             <img src="<?php echo base_url().'assets/images/team/medha.jpg' ;?>" alt="Medha Sharma">
@@ -354,8 +276,12 @@
                         </div>
                     </div>
                 </div>
+                
+        </div>
 
-                <div class="col-md-3 col-sm-6 bottommargin rightmargin">
+        <div class="row">
+
+                <div class="col-md-3 col-sm-6 bottommargin leftmargin-lg rightmargin">
                     <div class="team">
                         <div class="team-image">
                             <img src="<?php echo base_url().'assets/images/team/devansh.jpeg' ;?>" alt="Devansh Manu">
@@ -394,8 +320,6 @@
                         </div>
                     </div>
                 </div>
-
-
 
         </div>
         
