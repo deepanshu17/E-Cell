@@ -378,7 +378,7 @@
                 <div class="col-md-3 col-sm-6 bottommargin rightmargin">
                     <div class="team">
                         <div class="team-image">
-                            <img src="<?php echo base_url().'assets/images/team/1.jpg' ;?>" alt="Daksh Anand ">
+                            <img src="<?php echo base_url().'assets/images/team/daksh.jpg' ;?>" alt="Daksh Anand ">
                         </div>
                         <div class="team-desc">
                             <div class="team-title"><h3 class="nomargin">Daksh Anand </h3></div>
